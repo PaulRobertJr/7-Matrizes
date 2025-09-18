@@ -10,13 +10,13 @@
 
 ## Lista de Atividades: 
 ```md
-1. Escreva um programa que alimente uma matriz M de 2 x 3 elementos inteiros e, utilizando estruturas
-de repetição, apresente na tela a soma de todos os elementos da matriz.
+1. Escreva um programa que alimente uma matriz M de 2 x 3 elementos inteiros e, utilizando 
+estruturas de repetição, apresente na tela a soma de todos os elementos da matriz.
 ```
 ---
 ```md
-2. Escreva um programa que alimente uma matriz M de 2 x 3 elementos inteiros e, utilizando estruturas
-de repetição, apresente na tela o produto de todos os elementos da matriz.
+2. Escreva um programa que alimente uma matriz M de 2 x 3 elementos inteiros e, utilizando
+estruturas de repetição, apresente na tela o produto de todos os elementos da matriz.
 ```
 ---
 ```md
@@ -26,14 +26,14 @@ então a mensagem "Número não encontrado!", se o número não estiver presente
 ```
 ---
 ```md
-4. Escreva um programa que leia uma matriz M de 5 x 5 elementos e, utilizando estruturas de repetição,
-apresente na tela o menor valor da matriz, o maior valor da matriz, a soma dos valores da matriz e a
-média dos valores da matriz.
+4. Escreva um programa que leia uma matriz M de 5 x 5 elementos e, utilizando 
+estruturas de repetição, apresente na tela o menor valor da matriz, o maior valor da matriz 
+a soma dos valores da matriz e a média dos valores da matriz.
 ```
 ---
 ```markdown
-5. Escreva um programa que leia uma matriz M de 5 x 5 elementos e, utilizando estruturas de repetição,
-apresente na tela a soma de todos os elementos marcados com x.
+5. Escreva um programa que leia uma matriz M de 5 x 5 elementos e, utilizando 
+estruturas de repetição, apresente na tela a soma de todos os elementos marcados com x.
 ```
 |.|.|.|.|.|
 |-|-|-|-|-|
@@ -43,8 +43,8 @@ apresente na tela a soma de todos os elementos marcados com x.
 |.|.|.|.|.|
 ---
 ```md
-6. Escreva um programa que leia uma matriz M de 5 x 5 elementos e, utilizando estruturas de repetição,
-apresente na tela a soma de todos os elementos marcados com x.
+6. Escreva um programa que leia uma matriz M de 5 x 5 elementos e, utilizando 
+estruturas de repetição, apresente na tela a soma de todos os elementos marcados com x.
 ```
 |.|.|x|.|.|
 |-|-|-|-|-|
@@ -54,8 +54,9 @@ apresente na tela a soma de todos os elementos marcados com x.
 |.|.|x|.|.|
 ---
 ```md
-7. Escreva um programa que leia uma matriz M de 5 x 5 elementos e, utilizando estruturas de repetição,
-apresente na tela a soma dos elementos da diagonal principal da matriz.
+7. Escreva um programa que leia uma matriz M de 5 x 5 elementos e, utilizando
+estruturas de repetição, apresente na tela a soma dos elementos da diagonal
+principal da matriz.
 ```
 |x|.|.|.|.|
 |-|-|-|-|-|
@@ -65,8 +66,9 @@ apresente na tela a soma dos elementos da diagonal principal da matriz.
 |.|.|.|.|x|
 ---
 ```md
-8. Escreva um programa que leia uma matriz M de 5 x 5 elementos e, utilizando estruturas de repetição,
-apresente na tela a soma dos elementos da diagonal secundária da matriz.
+8. Escreva um programa que leia uma matriz M de 5 x 5 elementos e, utilizando 
+estruturas de repetição, apresente na tela a soma dos elementos da diagonal 
+secundária da matriz.
 ```
 |.|.|.|.|x|
 |-|-|-|-|-|
@@ -76,8 +78,8 @@ apresente na tela a soma dos elementos da diagonal secundária da matriz.
 |x|.|.|.|.|
 ---
 ```md
-9. Escreva um programa que leia uma matriz M de 4 x 4 elementos e, utilizando estruturas de repetição,
-apresente na tela a soma dos elementos marcados com x.
+9. Escreva um programa que leia uma matriz M de 4 x 4 elementos e, utilizando 
+estruturas de repetição, apresente na tela a soma dos elementos marcados com x.
 ```
 |x|x|.|.|
 |-|-|-|-|
@@ -86,8 +88,8 @@ apresente na tela a soma dos elementos marcados com x.
 |.|.|.|.|
 ---
 ```md
-10. Escreva um programa que leia uma matriz M de 4 x 4 elementos e, utilizando estruturas de repetição,
-apresente na tela a soma dos elementos marcados com x.
+10. Escreva um programa que leia uma matriz M de 4 x 4 elementos e, utilizando
+estruturas de repetição, apresente na tela a soma dos elementos marcados com x.
 ```
 |.|.|.|.|
 |-|-|-|-|
@@ -96,8 +98,8 @@ apresente na tela a soma dos elementos marcados com x.
 |.|.|x|x|
 ---
 ```md
-11. Escreva um programa que leia uma matriz M de 4 x 4 elementos e, utilizando estruturas de repetição,
-apresente na tela a soma dos elementos marcados com x.
+11. Escreva um programa que leia uma matriz M de 4 x 4 elementos e, utilizando 
+estruturas de repetição, apresente na tela a soma dos elementos marcados com x.
 ```
 |x|.|.|.|
 |-|-|-|-|
@@ -106,8 +108,8 @@ apresente na tela a soma dos elementos marcados com x.
 |x|x|x|x|
 ---
 ```md
-12. Escreva um programa que leia uma matriz M de 4 x 4 elementos e, utilizando estruturas de repetição,
-apresente na tela a soma dos elementos marcados com x.
+12. Escreva um programa que leia uma matriz M de 4 x 4 elementos e, utilizando 
+estruturas de repetição, apresente na tela a soma dos elementos marcados com x.
 ```
 |.|.|.|x|
 |-|-|-|-|
@@ -116,8 +118,9 @@ apresente na tela a soma dos elementos marcados com x.
 |x|x|x|x|
 ---
 ```md
-13. Escreva um programa que leia uma matriz M de 4 x 5 elementos e, utilizando uma estrutura de
-repetição, armazene em um vetor V o menor elemento de cada linha da matriz. Exemplo:
+13. Escreva um programa que leia uma matriz M de 4 x 5 elementos e, utilizando 
+uma estrutura de repetição, armazene em um vetor V o menor elemento 
+de cada linha da matriz. Exemplo:
 ```
 
 **Matriz M preenchida**
@@ -135,8 +138,9 @@ repetição, armazene em um vetor V o menor elemento de cada linha da matriz. Ex
 
 ---
 ```md
-14. Escreva um programa que leia duas matrizes (A e B) de 2 linhas e 3 colunas e, utilizando uma estrutura
-de repetição, realize a troca dos elementos destas matrizes. Exemplo:
+14. Escreva um programa que leia duas matrizes (A e B) de 2 linhas e 3 colunas e
+ utilizando uma estrutura de repetição, realize a troca dos elementos destas matrizes. 
+Exemplo:
 ```
 **Matriz A**
 | |0 |1 |2 |
